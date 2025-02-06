@@ -1,0 +1,16 @@
+/* PostList.module.css */
+
+.postList {
+    list-style: none; /* 移除列表預設樣式 */
+    padding: 0; /* 移除內距 */
+  }
+  
+  .postItem {
+    margin-bottom: 10px; /* 設定項目間距 */
+  }
+  
+  .postLink {
+    text-decoration: none; /* 移除連結底線 */
+    color: blue; /* 設定連結顏色 */
+    font-weight: bold; /* 設定連結粗細 */
+  }

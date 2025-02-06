@@ -1,0 +1,21 @@
+/* PostDetail.module.css */
+
+.postDetailContainer {
+    padding: 20px; /* 設定容器內距 */
+    border: 1px solid #ccc; /* 設定容器邊框 */
+    border-radius: 5px; /* 設定容器邊框圓角 */
+  }
+  
+  .postTitle {
+    font-size: 24px; /* 設定標題大小 */
+    margin-bottom: 10px; /* 設定標題間距 */
+  }
+  
+  .postAuthor {
+    font-style: italic; /* 設定作者斜體 */
+    margin-bottom: 5px; /* 設定作者間距 */
+  }
+  
+  .postContent {
+    line-height: 1.6; /* 設定內容行高 */
+  }
